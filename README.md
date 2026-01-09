@@ -25,7 +25,7 @@ The dataset contains passenger-level information including age, sex, ticket clas
 - Female passengers had significantly higher survival rates than male passengers.
 - First-class passengers were more likely to survive compared to those in lower classes.
 - Children showed better survival outcomes than adults.
-- Passengers traveling alone had lower survival rates.
+- Passengers traveling with small to medium family sizes exhibited higher survival rates compared to those traveling with very large families.
 - Higher fare levels were generally associated with improved survival chances.
 
 ## Implications
