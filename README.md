@@ -34,5 +34,5 @@ The dataset contains passenger-level information including age, sex, ticket clas
 - Group dynamics should be considered in disaster response planning.
 
 ## Project Files
-- `notebooks/titanic_eda.ipynb` – Full exploratory data analysis
+- `notebooks/Titanic Analysis.ipynb` – Full exploratory data analysis
 - `data/` – Dataset used for the analysis
